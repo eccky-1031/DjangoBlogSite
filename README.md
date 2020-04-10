@@ -1,0 +1,2 @@
+# DjangoBlogSite
+django practice
